@@ -1,9 +1,4 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
 
-// 10PRINT
-// https://www.youtube.com/watch?v=bEyTZ5ZZxZs
 int x = 0;
 int y = 0;
 int spacing  = 15;
