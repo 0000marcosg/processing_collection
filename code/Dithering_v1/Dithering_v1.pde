@@ -1,9 +1,4 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
 
-// Floyd Steinberg Dithering
-// Edited Video: https://youtu.be/0L2n8Tg2FwI
 
 PImage kitten;
 PImage newImg;
