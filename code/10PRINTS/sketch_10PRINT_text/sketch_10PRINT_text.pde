@@ -1,9 +1,4 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
 
-// 10PRINT
-// https://www.youtube.com/watch?v=bEyTZ5ZZxZs
 float x = 0;
 float y = 0;
 float spacing  = 15;
